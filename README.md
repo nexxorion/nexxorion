@@ -102,9 +102,9 @@ Containerization, cloud technologies, Linux environments and deployment workflow
 <h3 align="center">⚔️ CORE WEAPONS</h3>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,js,html,css,tailwind,mongodb,redis,docker&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nodejs,js,html,css,tailwind,mongodb,redis,docker&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,tailwind,mongodb,redis,docker" alt="Core stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnodejs%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cmongodb%2Credis%2Cdocker&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnodejs%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cmongodb%2Credis%2Cdocker&theme=light">
+  <img src="https://skillicons.dev/icons?i=react%2Cnodejs%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cmongodb%2Credis%2Cdocker" alt="Core stack">
 </picture>
 </div>
 
@@ -120,9 +120,9 @@ Containerization, cloud technologies, Linux environments and deployment workflow
 <h3 align="center">🕷️ EXTENDED ARSENAL</h3>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,mysql,linux,nginx,aws,git,github,postman&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,mysql,linux,nginx,aws,git,github,postman&theme=light">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,postgres,mysql,linux,nginx,aws,git,github,postman" alt="Extended stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Cexpress%2Cpostgres%2Cmysql%2Clinux%2Cnginx%2Caws%2Cgit%2Cgithub%2Cpostman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Cexpress%2Cpostgres%2Cmysql%2Clinux%2Cnginx%2Caws%2Cgit%2Cgithub%2Cpostman&theme=light">
+  <img src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Cexpress%2Cpostgres%2Cmysql%2Clinux%2Cnginx%2Caws%2Cgit%2Cgithub%2Cpostman" alt="Extended stack">
 </picture>
 </div>
 
