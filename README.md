@@ -49,7 +49,7 @@ My obsessions: <b>software architecture · system design · performance · AI-po
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">🩸 02 — ENGINEERING DOMAINS 🩸</h2>
+<h2 align="center"> 02 — ENGINEERING DOMAINS </h2>
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Containerization, cloud technologies, Linux environments and deployment workflow
 </picture>
 </div>
 
-<h3 align="center">🩸 IN TRAINING</h3>
+<h3 align="center"> IN TRAINING</h3>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark">
@@ -119,7 +119,7 @@ Containerization, cloud technologies, Linux environments and deployment workflow
 
 <div align="center">
 
-# ☠ NOXALITH ☠
+#  NOXALITH 
 
 **PRODUCT ENGINEERING · FULL-STACK DEVELOPMENT**
 
@@ -195,7 +195,7 @@ Never stop learning, experimenting and sharpening the craft.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">😈 07 — ESTABLISH CONNECTION 😈</h2>
+<h2 align="center"> 07 — ESTABLISH CONNECTION </h2>
 
 <div align="center">
 
