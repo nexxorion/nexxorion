@@ -39,26 +39,13 @@ From sharp frontend experiences to backend architecture, databases and infrastru
 My obsessions: <b>software architecture · system design · performance · AI-powered applications</b>.
 </p>
 
-```yaml
-identity:
-  name: Nexorion
-  role: Full-Stack Developer
-  location: India
-
-currently_building:
-  - Noxalith
-
-currently_learning:
-  - Java
-
-currently_exploring:
-  - Retrieval-Augmented Generation
-  - Machine Learning
-  - System Design
-  - Scalable Backend Architecture
-
-philosophy: "Precision in code. Purpose in engineering."
-```
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/identity-light.svg">
+  <img src="assets/identity-dark.svg" width="85%" alt="Nexorion — Full-Stack Developer from India. Building Noxalith, learning Java, exploring RAG, ML, system design and scalable backend architecture.">
+</picture>
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
